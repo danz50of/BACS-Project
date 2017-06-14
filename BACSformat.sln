@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BACSformat", "BACSformat\BACSformat.vcxproj", "{30F3F6A4-7240-4F7B-AB0D-5A6608FA0059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Distribute|Win32 = Distribute|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F3F6A4-7240-4F7B-AB0D-5A6608FA0059}.Debug|Win32.ActiveCfg = Debug|Win32
+		{30F3F6A4-7240-4F7B-AB0D-5A6608FA0059}.Debug|Win32.Build.0 = Debug|Win32
+		{30F3F6A4-7240-4F7B-AB0D-5A6608FA0059}.Distribute|Win32.ActiveCfg = Distribute|Win32
+		{30F3F6A4-7240-4F7B-AB0D-5A6608FA0059}.Distribute|Win32.Build.0 = Distribute|Win32
+		{30F3F6A4-7240-4F7B-AB0D-5A6608FA0059}.Release|Win32.ActiveCfg = Debug|Win32
+		{30F3F6A4-7240-4F7B-AB0D-5A6608FA0059}.Release|Win32.Build.0 = Debug|Win32
+		{30F3F6A4-7240-4F7B-AB0D-5A6608FA0059}.Release|Win32.Deploy.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
